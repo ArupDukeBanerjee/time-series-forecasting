@@ -2,4 +2,4 @@
 
 ## _Regressors and sequential model based methods_
 
-- Let's try to create some ✨ magic ✨
+:snowflake: Let's try to create some ✨ magic ✨
