@@ -2,5 +2,5 @@
 
 ## _Regressors and sequential model based methods_
 
-:snowflake: Let's try to create some ✨ magic ✨
+:snowflake: ✨ ✨
 :snowflake: Here is the details for this project
